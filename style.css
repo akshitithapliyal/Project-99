@@ -1,0 +1,40 @@
+body{
+    background-color: lightpink;
+}
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style:italic;
+font-weight:100;
+}
+h4{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+font-weight:100;
+color:cornflowerblue;
+}
+#camera{
+    width:500px;
+    height:400px;
+    border-color: black;
+    border:2px solid;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    line-height: 5;
+}
+img:hover{
+    border-radius: 140px;
+}
+img{
+    width:40%;
+    border-radius:4px;
+    padding:10px;
+    box-shadow: 0 6px 8px 0 black;
+}
+.column{
+    display:inline;
+    padding:5px;
+}
